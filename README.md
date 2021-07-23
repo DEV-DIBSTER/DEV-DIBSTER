@@ -16,7 +16,7 @@ const DIBSTER = {
   code: 'JavaScript, Python',
   about: 'Brawl Stars Player and Discord Bot Developer.',
   hobby: 'Playing Brawl Stars, and soccer.',
-  portfolio: 'https://DIBSTERYT.github.io'
+  portfolio: 'https://DIBSTERYT.github.io' //WIP
 }
 ```
 ---
