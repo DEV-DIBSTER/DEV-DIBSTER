@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=radical" align="right" width="380">
-<h2> Hi, I'm DIBSTER👋</h2>
+<h2> Hi, I'm DIBSTER! 👋</h2>
 
 
 [![Twitter: DIBSTERYT](https://img.shields.io/twitter/follow/DIBSTERYT?label=Twitter&logo=Twitter&style=social)](https://twitter.com/DIBSTERYT)
