@@ -12,7 +12,7 @@
 ```js
 const DIBSTER = {
   pronouns: 'He/Him',
-  job: 'School Student',
+  job: 'School Student 9th Grader/Freshman',
   code: 'JavaScript, Python',
   about: 'Brawl Stars Player and Discord Bot Developer.',
   hobby: 'Playing Brawl Stars, and soccer.',
