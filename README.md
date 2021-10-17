@@ -16,7 +16,7 @@ const DIBSTER = {
   job: 'School Student 9th Grader/Freshman',
   code: 'JavaScript',
   about: 'I am a 9th Grader from the United States, I play a lot of Brawl Stars and code Discord bots.',
-  hobby: 'Brawl Stars'
+  hobby: 'Brawl Stars, Badminton'
 }
 ```
 ---
