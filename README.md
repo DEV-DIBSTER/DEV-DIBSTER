@@ -3,7 +3,7 @@
 
 
 [![Twitter: DEV_DIBSTER](https://img.shields.io/twitter/follow/DEV_DIBSTER?label=Twitter&logo=Twitter?style=social&logo=appveyor)](https://twitter.com/DEV_DIBSTER)
-[![GitHub: DIBSTERYT](https://img.shields.io/github/followers/DIBSTERYT?style=social&logo=appveyor)](https://github.com/DIBSTERYT)
+[![GitHub: DIBSTERYT](https://img.shields.io/github/followers/DIBSTERYT?color=BLACK&style=social)](https://github.com/DIBSTERYT)
 ---
 
 ### Some things About Me:
