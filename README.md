@@ -4,7 +4,6 @@
 
 [![Twitter: DEV_DIBSTER](https://img.shields.io/twitter/follow/DEV_DIBSTER?label=Twitter&logo=Twitter&style=social)](https://twitter.com/DEV_DIBSTER)
 [![GitHub: DIBSTERYT](https://img.shields.io/github/followers/DIBSTERYT?style=social)](https://github.com/DIBSTERYT)
-[![Reddit: DIBSTER_BS](https://img.shields.io/reddit/user-karma/link/DIBSTER_BS?color=59afff&label=Reddit&logo=Reddit&style=social)](https://www.reddit.com/user/DIBSTER_BS)
 ---
 
 ### Some things About Me:
