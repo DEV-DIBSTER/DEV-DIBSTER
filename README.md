@@ -12,11 +12,11 @@
 ```js
 const DIBSTER = {
   pronouns: 'He/Him',
+  birthday: 'Septermber 10th 2007'
   job: 'School Student 9th Grader/Freshman',
-  code: 'JavaScript, Python',
-  about: 'Brawl Stars Player and Discord Bot Developer.',
-  hobby: 'Playing Brawl Stars, and soccer.',
-  portfolio: 'https://DIBSTERYT.github.io' //WIP
+  code: 'JavaScript',
+  about: 'I'm a 9th Grader from the United States, I play a lot of Brawl Stars and code Discord bots.',
+  hobby: 'Brawl Stars'
 }
 ```
 ---
