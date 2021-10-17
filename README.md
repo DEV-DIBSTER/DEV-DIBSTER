@@ -2,8 +2,8 @@
 <h2> Hi, I'm DIBSTER! 👋</h2>
 
 
-[![Twitter: DEV_DIBSTER](https://img.shields.io/twitter/follow/DEV_DIBSTER?label=Twitter&logo=Twitter&style=social)](https://twitter.com/DEV_DIBSTER)
-[![GitHub: DIBSTERYT](https://img.shields.io/github/followers/DIBSTERYT?style=social)](https://github.com/DIBSTERYT)
+[![Twitter: DEV_DIBSTER](https://img.shields.io/twitter/follow/DEV_DIBSTER?label=Twitter&logo=Twitter?style=for-the-badge&logo=appveyor)](https://twitter.com/DEV_DIBSTER)
+[![GitHub: DIBSTERYT](https://img.shields.io/github/followers/DIBSTERYT?style=for-the-badge&logo=appveyor)](https://github.com/DIBSTERYT)
 ---
 
 ### Some things About Me:
