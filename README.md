@@ -19,5 +19,3 @@ const DIBSTER = {
 }
 ```
 ---
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBSTERYT&layout=compact)
