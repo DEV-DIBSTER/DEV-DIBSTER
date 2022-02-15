@@ -2,7 +2,7 @@
 <h2> Hi, I'm DIBSTER! 👋</h2>
 
 
-[![Twitter: DEV_DIBSTER](https://img.shields.io/twitter/follow/DEV_DIBSTER?style=social)](https://twitter.com/DEV_DIBSTER)
+[![Twitter: DEV_DIBSTER](https://img.shields.io/twitter/follow/DEV_DIBSTER?style=social&olor=BLACK&)](https://twitter.com/DEV_DIBSTER)
 [![GitHub: DIBSTERYT](https://img.shields.io/github/followers/DIBSTERYT?color=BLACK&style=social)](https://github.com/DIBSTERYT)
 ---
 
