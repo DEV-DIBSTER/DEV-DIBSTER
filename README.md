@@ -20,3 +20,7 @@ const DIBSTER = {
 }
 ```
 ---
+
+# Places I work at:
+
+1. [TechHost Development](https://github.com/TechHost-Development) => Developer
