@@ -26,3 +26,4 @@ const DIBSTER = {
 1. [TechHost Development](https://github.com/TechHost-Development) | Developer
 2. [BrawlMatic](https://github.com/BrawlMatic) | Co Owner
 3. [BlueFox Development](https://github.com/BlueFox-Development) | Developer
+4. [Astro Files Host]
