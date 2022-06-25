@@ -27,3 +27,4 @@ const DIBSTER = {
 2. [BrawlMatic](https://github.com/BrawlMatic) | Co Owner
 3. [BlueFox Development](https://github.com/BlueFox-Development) | Developer
 4. [Astro Files Host](https://github.com/Astro-File-Host) | Co Owner
+5. ArtiomsHosting | System Administrator + Panel Administrator
