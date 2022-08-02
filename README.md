@@ -17,7 +17,7 @@ const DIBSTER = {
   code: 'JavaScript',
   about: 'Student from the United States. Love tech and coding. I make sites and Discord Bots.',
   hobby: 'Developing, Games, Technologies.'
-}
+};
 ```
 ---
 
