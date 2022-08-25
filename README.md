@@ -14,7 +14,8 @@ const DIBSTER = {
   pronouns: 'He/Him',
   birthday: 'Septermber 10th 2007',
   job: 'School Student 10th Grader/Sophmore',
-  code: 'JavaScript',
+  languages: ['JavaScript', 'Xojo', 'Html', 'CSS'],
+  frameworks: ['ExpressJS, React'],
   about: 'Student from the United States. Love tech and coding. I make sites and Discord Bots.',
   hobby: 'Developing, Games, Technologies.'
 };
