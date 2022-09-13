@@ -26,6 +26,9 @@ const DIBSTER = {
 
 1. [TechHost Development](https://github.com/TechHost-Development) | Developer
 2. [BrawlMatic](https://github.com/BrawlMatic) | Co Owner
-3. [BlueFox Development](https://github.com/BlueFox-Development) | Developer
+3. [OrangyBot](https://github.com/OrangyBot) | OSS Developer
 4. [Astro Files Host](https://github.com/Astro-File-Host) | Co Owner
 5. ArtiomsHosting | System Administrator + Panel Administrator
+6. [DanBot Hosting](https://github.com/DanBot-Hosting) | Staff + Developer
+
+Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Developer
