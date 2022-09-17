@@ -32,3 +32,13 @@ const DIBSTER = {
 6. [DanBot Hosting](https://github.com/DanBot-Hosting) | Staff + Developer
 
 Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Developer
+
+### 🌎 Social Media:
+
+<a target="_blank" href="https://twitter.com/DEV_DIBSTER">
+	<img title="Twitter" alt="Twitter" width="40px" src="https://i.imgur.com/o8oo7J3.png">
+</a>
+
+<a target="_blank" href="https://discord.com/users/757296951925538856">
+	<img title="Discord" alt="Discord" width="40px" src="https://i.imgur.com/n5C5PKl.png">
+</a>
