@@ -2,7 +2,7 @@
 <h1> Hi, I'm DIBSTER! 👋</h1>
 I got by DIB and DIBBY as well.
 
-
+<h1></h1>
 [![Twitter: DEV_DIBSTER](https://img.shields.io/twitter/follow/DEV_DIBSTER?style=social&olor=BLACK&)](https://twitter.com/DEV_DIBSTER)
 [![GitHub: DIBSTERYT](https://img.shields.io/github/followers/DIBSTERYT?color=BLACK&style=social)](https://github.com/DIBSTERYT)
 [![Alt GitHub: DEV-DIBSTER1](https://img.shields.io/github/followers/DEV-DIBSTER1?color=BLACK&style=social)](https://github.com/DEV-DIBSTER1)
