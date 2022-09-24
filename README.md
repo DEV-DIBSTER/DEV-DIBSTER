@@ -44,10 +44,3 @@ Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Develop
 ## Languages:
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
 <img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-
-<br>
-<br>
-
-# Hosting Providers:
-<img align="left" alt="Cloudflare" width="40px" src="https://seeklogo.com/images/C/cloudflare-logo-6B7D159387-seeklogo.com.png"/>
-<img align="left" alt="OVH" width="40px" src="https://pbs.twimg.com/profile_images/1178940876078407680/p0SH0xKH_400x400.jpg"/>
