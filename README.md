@@ -40,3 +40,7 @@ Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Develop
 <a target="_blank" href="https://discord.com/users/757296951925538856">
 	<img title="Discord" alt="Discord" width="40px" src="https://i.imgur.com/n5C5PKl.png">
 </a>
+
+## Languages:
+
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
