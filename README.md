@@ -45,5 +45,7 @@ Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Develop
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
 <img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 
+<br>
+
 # Hosting Providers:
 <img align="left" alt="Cloudflare" width="40px" src="https://www.svgrepo.com/show/331337/cloudflare.svg"/>
