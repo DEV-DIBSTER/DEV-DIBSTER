@@ -1,6 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=radical" align="right" width="380">
 <h1> Hi, I'm DIBSTER! 👋</h1>
-I got by DIB and DIBBY as well.
 
 <h1> Socials: </h1>
 [![Twitter: DEV_DIBSTER](https://img.shields.io/twitter/follow/DEV_DIBSTER?style=social&olor=BLACK&)](https://twitter.com/DEV_DIBSTER)
