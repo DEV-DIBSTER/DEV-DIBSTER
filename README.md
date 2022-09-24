@@ -49,4 +49,4 @@ Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Develop
 <br>
 
 # Hosting Providers:
-<img align="left" alt="Cloudflare" width="40px" src="https://www.svgrepo.com/show/331337/cloudflare.svg"/>
+<img align="left" alt="Cloudflare" width="40px" src="https://seeklogo.com/images/C/cloudflare-logo-6B7D159387-seeklogo.com.png"/>
