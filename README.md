@@ -5,7 +5,7 @@
 [![GitHub: DIBSTERYT](https://img.shields.io/github/followers/DIBSTERYT?color=BLACK&style=social)](https://github.com/DIBSTERYT)
 [![Alt GitHub: DEV-DIBSTER1](https://img.shields.io/github/followers/DEV-DIBSTER1?color=BLACK&style=social)](https://github.com/DEV-DIBSTER1)
 
-### Some things About Me:
+### Some things about me:
 
 ```js
 const DIBSTER = {
@@ -29,7 +29,7 @@ const DIBSTER = {
 5. ArtiomsHosting | System Administrator + Panel Administrator
 6. [DanBot Hosting](https://github.com/DanBot-Hosting) | Staff + Developer + Head of the Beta Tester Program
 
-Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Developer
+- Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Developer
 
 ### 🌎 Social Media:
 
@@ -40,6 +40,8 @@ Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Develop
 <a target="_blank" href="https://discord.com/users/757296951925538856">
 	<img title="Discord" alt="Discord" width="40px" src="https://i.imgur.com/n5C5PKl.png">
 </a>
+
+### 💻 Coding Languages:
 
 ## Languages:
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
