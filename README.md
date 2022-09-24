@@ -43,6 +43,5 @@ const DIBSTER = {
 
 ### 💻 Coding Languages:
 
-## Languages:
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
 <img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
