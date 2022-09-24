@@ -50,3 +50,4 @@ Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Develop
 
 # Hosting Providers:
 <img align="left" alt="Cloudflare" width="40px" src="https://seeklogo.com/images/C/cloudflare-logo-6B7D159387-seeklogo.com.png"/>
+<img align="left" alt="Cloudflare" width="40px" src="https://avatars.githubusercontent.com/u/1698434?s=200&v=4"/>
