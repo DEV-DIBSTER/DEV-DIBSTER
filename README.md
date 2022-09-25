@@ -45,4 +45,4 @@ const DIBSTER = {
 
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
 <img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-<img align="left" alt="Java" width="40px" src="https://cdn.vox-cdn.com/thumbor/TeSD6RdiNeqXoOzt2vwL2739AM4=/0x0:640x427/1400x1050/filters:focal(320x213:321x214)/cdn.vox-cdn.com/uploads/chorus_asset/file/14226211/java_logo_640.1419979253.jpg"/>
+<img align="left" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/311/311357.png"/>
