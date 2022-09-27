@@ -54,7 +54,7 @@ const DIBSTER = {
 <br>
 <br>
 
-### Tools/Sites/Softwares:
+### 💻 Tools/Sites/Softwares:
 <a target="_blank" href="https://cloudflare.com">
 	<img title="Cloudflare" alt="Cloudflare" align="center" width="40px" src="https://cloudflare.com/favicon.ico">
 </a>
