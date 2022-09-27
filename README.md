@@ -13,7 +13,7 @@ const DIBSTER = {
   birthday: 'Septermber 10th 2007',
   job: 'School Student 10th Grader/Sophomore',
   languages: ['JavaScript', 'Xojo', 'Html', 'CSS'],
-  frameworks: ['ExpressJS, React'],
+  frameworks: ['ExpressJS, React', 'Xojo'],
   about: 'Student from the United States. Love technology and coding. I make sites and Discord Bots.',
   hobby: 'Developing, Games, Technologies.',
   contactEmail: 'hello@dibster-is-a.engineer'
