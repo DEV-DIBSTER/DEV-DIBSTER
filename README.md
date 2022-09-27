@@ -15,7 +15,8 @@ const DIBSTER = {
   languages: ['JavaScript', 'Xojo', 'Html', 'CSS'],
   frameworks: ['ExpressJS, React'],
   about: 'Student from the United States. Love technology and coding. I make sites and Discord Bots.',
-  hobby: 'Developing, Games, Technologies.'
+  hobby: 'Developing, Games, Technologies.',
+  contactEmail: 'hello@dibster-is-a.engineer'
 };
 ```
 ---
