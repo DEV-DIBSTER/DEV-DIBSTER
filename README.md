@@ -4,7 +4,7 @@
 [![GitHub: DIBSTERYT](https://img.shields.io/github/followers/DIBSTERYT?color=BLACK&style=social)](https://github.com/DIBSTERYT)
 [![Alt GitHub: DEV-DIBSTER1](https://img.shields.io/github/followers/DEV-DIBSTER1?color=BLACK&style=social)](https://github.com/DEV-DIBSTER1)
 
-[![Profile Visits](https://komarev.com/ghpvc/?username=DIBSTERYT")
+[![Profile Visits](https://komarev.com/ghpvc/?username=DIBSTERYT)
 
 ### Some things about me:
 
