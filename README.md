@@ -59,6 +59,9 @@ const DIBSTER = {
 	<img title="Cloudflare" alt="Cloudflare" align="center" width="40px" src="https://cloudflare.com/favicon.ico">
 </a>
 
+<a target="_blank" href="https://getsharex.com">
+	<img title="Cloudflare" alt="ShareX" align="center" width="40px" src="https://getsharex.com/favicon.ico">
+</a>
 <br>
 <br>
 
