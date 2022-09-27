@@ -26,7 +26,7 @@ const DIBSTER = {
 2. [BrawlMatic](https://github.com/BrawlMatic) | Co Owner
 3. [OrangyBot](https://github.com/OrangyBot) | OSS Developer
 4. [Astro Files Host](https://github.com/Astro-File-Host) | Co Owner
-5. ArtiomsHosting | System Administrator + Panel Administrator
+5. [Artiom Hosting](https://artiom.host) | System Administrator + Panel Administrator
 6. [DanBot Hosting](https://github.com/DanBot-Hosting) | Staff + Developer + Head of the Beta Tester Program
 
 - Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Developer
