@@ -46,3 +46,4 @@ const DIBSTER = {
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
 <img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 <img align="left" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/311/311357.png"/>
+<img align="left" alt="HTML" width="40px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>
