@@ -53,7 +53,7 @@ const DIBSTER = {
 
 ### 💻 Projects: 
 
-
+<img align="left" alt="HTML" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"/>
 
 <br>
 <br>
