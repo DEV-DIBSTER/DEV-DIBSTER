@@ -68,10 +68,6 @@ const DIBSTER = {
 	<img align="left" title="OVH" alt="OVH" align="center" width="40px" src="https://us.ovhcloud.com/favicon.ico">
 </a>
 
-<a target="_blank" href="https://www.microsoft.com/en-us/software-download/windows10">
-	<img align="left" title="Windows10" alt="Windows10" align="center" width="40px" src="https://w7.pngwing.com/pngs/641/960/png-transparent-windows-10-windows-8-microsoft-operating-systems-windows-logos-blue-angle-text-thumbnail.png">
-</a>
-
 <br>
 <br>
 
