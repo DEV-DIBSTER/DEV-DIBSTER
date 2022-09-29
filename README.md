@@ -57,15 +57,15 @@ const DIBSTER = {
 
 ### 💻 Tools/Sites/Softwares:
 <a target="_blank" href="https://cloudflare.com">
-	<img title="Cloudflare" alt="Cloudflare" align="center" width="40px" src="https://cloudflare.com/favicon.ico">
+	<img align="left" title="Cloudflare" alt="Cloudflare" align="center" width="40px" src="https://cloudflare.com/favicon.ico">
 </a>
 
 <a target="_blank" href="https://getsharex.com">
-	<img title="ShareX" alt="ShareX" align="center" width="40px" src="https://getsharex.com/favicon.ico">
+	<img align="left" title="ShareX" alt="ShareX" align="center" width="40px" src="https://getsharex.com/favicon.ico">
 </a>
 
 <a target="_blank" href="https://us.ovhcloud.com/">
-	<img title="OVH" alt="OVH" align="center" width="40px" src="https://us.ovhcloud.com/favicon.ico">
+	<img align="left" title="OVH" alt="OVH" align="center" width="40px" src="https://us.ovhcloud.com/favicon.ico">
 </a>
 
 <br>
