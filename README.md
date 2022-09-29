@@ -64,8 +64,8 @@ const DIBSTER = {
 	<img title="ShareX" alt="ShareX" align="center" width="40px" src="https://getsharex.com/favicon.ico">
 </a>
 
-<a target="_blank" href="https://getsharex.com">
-	<img title="OVH" alt="OVH" align="center" width="40px" src="https://getsharex.com/favicon.ico">
+<a target="_blank" href="https://us.ovhcloud.com/">
+	<img title="OVH" alt="OVH" align="center" width="40px" src="https://us.ovhcloud.com/favicon.ico">
 </a>
 
 <br>
