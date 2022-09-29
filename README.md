@@ -48,9 +48,9 @@ const DIBSTER = {
 <img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 <img align="left" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/311/311357.png"/>
 <img align="left" alt="HTML" width="40px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>
-<img align="left" alt="HTML" width="40px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/>
+<img align="left" alt="CSS" width="40px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/>
 <img align="left" alt="HTML" width="40px" src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png"/>
-<img align="left" alt="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Xojo_Company_Logo.png"/>
+<img align="left" alt="Xojo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Xojo_Company_Logo.png"/>
 
 <br>
 <br>
