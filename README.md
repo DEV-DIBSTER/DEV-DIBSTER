@@ -72,7 +72,7 @@ const DIBSTER = {
 </a>
 
 <a target="_blank" href="https://us.ovhcloud.com/">
-	<img align="left" title="OVH" alt="OVH" align="center" width="40px" src="https://us.ovhcloud.com/favicon.ico">
+	<img align="left" title="OVH" alt="OVH" align="center" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ovh-3629559-3032342.png">
 </a>
 
 <br>
