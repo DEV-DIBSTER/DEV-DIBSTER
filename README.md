@@ -57,8 +57,9 @@ const DIBSTER = {
 <img align="left" alt="HTML" width="40px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" href="https://en.wikipedia.org/wiki/HTML"/>
 <img align="left" alt="CSS" width="40px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" href="https://en.wikipedia.org/wiki/CSS"/>
 <img align="left" alt="C++" width="40px" src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png" href="https://en.wikipedia.org/wiki/C%2B%2B"/>
-<img align="left" alt="Xojo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Xojo_Company_Logo.png" href="https://xojo.com/"/>
-
+<a target = "_blank" href="https://xojo.com/">
+	<img align="left" alt="Xojo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Xojo_Company_Logo.png"/>
+</a>
 <br>
 <br>
 
