@@ -38,6 +38,7 @@ const DIBSTER = {
 6. [DanBot Hosting](https://github.com/DanBot-Hosting) | Administrator + Developer + Head of the Beta Tester Program
 
 - Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Developer
+- Former Staff at Brawly (shutdown).
 
 ### 🌎 Social Media:
 
