@@ -3,7 +3,6 @@
 
 [![Twitter: DEV_DIBSTER](https://img.shields.io/twitter/follow/DEV_DIBSTER?style=social&olor=BLACK&)](https://twitter.com/DEV_DIBSTER)
 [![GitHub: DIBSTERYT](https://img.shields.io/github/followers/DIBSTERYT?color=BLACK&style=social)](https://github.com/DIBSTERYT)
-[![Alt GitHub: DEV-DIBSTER1](https://img.shields.io/github/followers/DEV-DIBSTER1?color=BLACK&style=social)](https://github.com/DEV-DIBSTER1)
 
 ### Some things about me:
 
