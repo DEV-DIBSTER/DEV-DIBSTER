@@ -35,6 +35,7 @@ const DIBSTER = {
 4. [Astro Files Host](https://github.com/Astro-File-Host) | Co Owner
 5. [Artiom Hosting](https://artiom.host) | System Administrator + Panel Administrator
 6. [DanBot Hosting](https://github.com/DanBot-Hosting) | Administrator + Developer + Head of the Beta Tester Program
+7. [is-a-good.dev](https://github.com/is-a-good-dev) | Helper
 
 - Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Developer
 - Former Staff at Brawly (shutdown).
