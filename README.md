@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=tokyonight" align="right" width="380">
+<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=tokyonight" align="right" width="380">
 <h1> Hi, I'm DIBSTER! 👋</h1>
 
 [![Twitter: DEV_DIBSTER](https://img.shields.io/twitter/follow/DEV_DIBSTER?style=social&olor=BLACK&)](https://twitter.com/DEV_DIBSTER)
@@ -109,4 +109,4 @@ const DIBSTER = {
 <br>
 <br>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight)](https://dibster.live)
+[![Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight)](https://dibster.live)
