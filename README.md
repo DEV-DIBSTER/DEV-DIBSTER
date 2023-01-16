@@ -109,4 +109,4 @@ const DIBSTER = {
 <br>
 <br>
 
-[![Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight)](https://dibster.live)
+[![Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight&layout=compact)](https://dibster.live)
