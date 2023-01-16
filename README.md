@@ -109,9 +109,9 @@ const DIBSTER = {
 <br>
 <br>
 
-<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight&layout=compact" align="left" width="380">
-
-<br>
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=DIBSTERYT&theme=react-dark" align= "center" width="380">
+<p float="left">
+	<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight&layout=compact" width="380" height="150">
+	<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=tokyonight" width="380" height="150">
+</p>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=DIBSTERYT&theme=react-dark" align= "center">
 
