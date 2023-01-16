@@ -110,3 +110,6 @@ const DIBSTER = {
 <br>
 
 [![Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight&layout=compact)](https://dibster.live)
+
+[![DIBSTER Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DIBSTERYT&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
