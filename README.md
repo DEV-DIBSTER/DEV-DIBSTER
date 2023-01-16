@@ -110,8 +110,8 @@ const DIBSTER = {
 <br>
 
 <p float="left">
-	<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight&layout=compact" width="380" height="150">
-	<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=tokyonight" width="380" height="150">
+	<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight&layout=compact" height="150">
+	<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=tokyonight" height="150">
 </p>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DIBSTERYT&theme=react-dark" align= "center">
 
