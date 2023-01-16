@@ -111,5 +111,7 @@ const DIBSTER = {
 
 <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight&layout=compact" align="left" width="380">
 
+<br>
+
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DIBSTERYT&theme=react-dark" width="380">
 
