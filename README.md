@@ -113,5 +113,5 @@ const DIBSTER = {
 
 <br>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=DIBSTERYT&theme=react-dark" width="380">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=DIBSTERYT&theme=react-dark" align= "center" width="380">
 
