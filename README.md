@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=tokyonight" align="right" width="380">
+<img src="https://github-readme-stats.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=tokyonight" align="right" width="380">
 <h1> Hi, I'm DIBSTER! 👋</h1>
 
 [![Twitter: DEV_DIBSTER](https://img.shields.io/twitter/follow/DEV_DIBSTER?style=social&olor=BLACK&)](https://twitter.com/DEV_DIBSTER)
@@ -110,8 +110,8 @@ const DIBSTER = {
 <br>
 
 <p float="left">
-	<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight&layout=compact" height="150">
-	<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=tokyonight" height="150">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIBSTERYT&langs_count=6&theme=tokyonight&layout=compact" height="150">
+	<img src="https://github-readme-stats.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=tokyonight" height="150">
 </p>
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DIBSTERYT&theme=react-dark" align= "center">
 
