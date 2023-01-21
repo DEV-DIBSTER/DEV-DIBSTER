@@ -1,8 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DIBSTERYT&show_icons=true&theme=tokyonight" align="right" width="380">
 <h1> Hi, I'm DIBSTER! 👋</h1>
 
-[![GitHub: DIBSTERYT](https://img.shields.io/github/followers/DIBSTERYT?color=BLACK&style=social)](https://github.com/DIBSTERYT)
-
 ### Some things about me:
 
 ```
