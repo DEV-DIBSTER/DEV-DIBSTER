@@ -90,16 +90,7 @@ const DIBSTER = {
 <br>
 <br>
 
-### 💻 Projects: 
-
-<a target="_black" href="https://www.arduino.cc/">
-<img align="left" alt="HTML" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"/>
-</a>
-
-<br>
-<br>
-<br>
-<br>
+<!--- ### 💻 Projects: --->
 
 <p float="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-DIBSTER&langs_count=6&theme=tokyonight&layout=compact" height="150">
