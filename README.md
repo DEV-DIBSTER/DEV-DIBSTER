@@ -44,35 +44,8 @@ const DIBSTER = {
 
 ### 💻 Coding Languages:
 
-<a target = "_blank" href="https://www.javascript.com/">
-	<img align="left" alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"/>
-</a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 
-<a target = "_blank" href="https://www.python.org/">
-	<img align="left" alt="Python" width="40px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
-</a>
-
-<a target = "_blank" href="https://www.java.com/en/">
-	<img align="left" alt="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/311/311357.png"/>
-</a>
-
-<a target = "_blank" href="https://en.wikipedia.org/wiki/HTML">
-	<img align="left" alt="HTML" width="40px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/>
-</a>
-
-<a target = "_blank" href="https://en.wikipedia.org/wiki/CSS">
-	<img align="left" alt="CSS" width="40px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/>
-</a>
-
-<a target = "_blank" href="https://en.wikipedia.org/wiki/C%2B%2B">
-	<img align="left" alt="C++" width="40px" src="https://brandlogos.net/wp-content/uploads/2022/01/c-brandlogo.net_.png"/>
-</a>
-
-<a target = "_blank" href="https://xojo.com/">
-	<img align="left" alt="Xojo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Xojo_Company_Logo.png"/>
-</a>
-<br>
-<br>
 
 ### 💻 Tools/Sites/Softwares:
 <a target="_blank" href="https://cloudflare.com">
@@ -87,6 +60,7 @@ const DIBSTER = {
 	<img align="left" title="OVH" alt="OVH" align="center" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ovh-3629559-3032342.png">
 </a>
 
+<br>
 <br>
 <br>
 
