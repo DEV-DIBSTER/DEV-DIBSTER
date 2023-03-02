@@ -18,19 +18,21 @@ const DIBSTER = {
 ```
 ---
 
-### 💼 Development Teams:
+### 💼 Current Developer/Maintainer Related Positions:
 
-1. [TechHost Development](https://github.com/TechHost-Development) | Developer
-2. [BrawlMatic](https://github.com/BrawlMatic) | Co Owner
-3. [OrangyBot](https://github.com/OrangyBot) | OSS Developer
-4. [Astro Files Host](https://github.com/Astro-File-Host) | Co Owner
-5. [Artiom Hosting](https://artiom.host) | System Administrator + Panel Administrator
-6. [DanBot Hosting](https://github.com/DanBot-Hosting) | Administrator + Developer + Head of the Beta Tester Program
-7. [is-a-good.dev](https://github.com/is-a-good-dev) | Helper
-8. [Open Domains](https://github.com/open-domains) | Helper
+- [TechHost Development](https://github.com/TechHost-Development) | Developer
+- [BrawlMatic](https://github.com/BrawlMatic) | Co Owner
+- [OrangyBot](https://github.com/OrangyBot) | OSS Developer
+- [Astro Files Host](https://github.com/Astro-File-Host) | Co Owner
+- [DanBot Hosting](https://github.com/DanBot-Hosting) | Administrator + Developer + Head of the Beta Tester Program
+- [is-a-good.dev](https://github.com/is-a-good-dev) | Helper
+- [Open Domains](https://github.com/open-domains) | Helper
+
+### 💼 Former Developer/Maintainer Related Positions:
 
 - Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Developer
-- Former Staff at Brawly (shutdown).
+- Formerly [Artiom Hosting](https://artiom.host) | System Administrator + Panel Administrator
+- Formerly Staff at Brawly Discord Bot (shutdown).
 
 ### 🌎 Social Media:
 
