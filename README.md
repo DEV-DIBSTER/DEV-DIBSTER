@@ -1,7 +1,5 @@
 <h1 align="center" height="200"> Hi, I'm DIBSTER! 👋</h1>
 
----
-
 ### 😃 General Info:
 
 ➣ Hey, I'm DIBSTER, I'm a Sophmore in High School studying in Computer Science. A member of the NAHS Robotics Team, I enjoy working with technology and STEM. On GitHub I work on projects ranging from Discord bots to API sites. In my free time I'll code side projects, game, and anything related to tech news.
