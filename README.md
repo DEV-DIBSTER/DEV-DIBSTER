@@ -1,21 +1,16 @@
-<img src="https://github-readme-stats.vercel.app/api?username=DEV-DIBSTER&show_icons=true&theme=tokyonight" align="right" width="380">
-<h1> Hi, I'm DIBSTER! 👋</h1>
-
+<h1 align="center"> Hi, I'm DIBSTER! 👋</h1>
 <br>
 
-### Some things about me:
-```js
-const DIBSTER = {
-  pronouns: 'He/Him',
-  birthday: 'Septermber 10th 2007',
-  job: 'School Student 10th Grader/Sophomore',
-  languages: ['JavaScript', 'Xojo', 'Html', 'CSS'],
-  frameworks: ['ExpressJS, React', 'Xojo'],
-  about: 'Student from the United States. Love technology and coding. I make sites and Discord Bots.',
-  hobby: 'Developing, Games, Technologies, and anything relating to tech news.',
-  contactEmail: 'hello@dibster-is-a.engineer'
-};
-```
+---
+
+### 😃 General Info:
+
+➣ Hey, I'm DIBSTER, I'm a Sophmore in High School studying in Computer Science. A member of the NAHS Robotics Team, I enjoy working with technology and STEM. On GitHub I work on projects ranging from Discord bots to API sites. In my free time I'll code side projects, game, and anything related to tech news.
+
+➣ I work with JavaScript for the most part, but I know how to use HTML/CSS, as well as Java and Python. I like to use frameworks including Express, React, and React Native.
+
+➣ You can contact me at: `hello@dibster-is-a.engineer`, my Discord `DIBSTER#2317`, or my Twitter `@DEV_DIBSTER`.
+
 ---
 
 ### 💼 Current Developer/Maintainer Related Positions:
