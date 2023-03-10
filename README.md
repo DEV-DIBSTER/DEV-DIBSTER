@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm DIBSTER! 👋</h1>
+<h1 align="center" height="200"> Hi, I'm DIBSTER! 👋</h1>
 
 ---
 
