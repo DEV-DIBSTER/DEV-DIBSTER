@@ -20,7 +20,7 @@
 - [Astro Files Host](https://github.com/Astro-File-Host) | Co Owner
 - [DanBot Hosting](https://github.com/DanBot-Hosting) | Administrator + Developer + Head of the Beta Tester Program
 - [is-a-good.dev](https://github.com/is-a-good-dev) | Helper
-- [Open Domains](https://github.com/open-domains) | Helper
+- [Open Domains](https://github.com/open-domains) | Maintainer
 
 ### 💼 Former Developer/Maintainer Related Positions:
 
