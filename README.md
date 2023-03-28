@@ -42,7 +42,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 
-### 💻 Databses:
+### 💻 Databases:
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,redis)](https://skillicons.dev)
 
