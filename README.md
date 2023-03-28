@@ -42,6 +42,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 
+### 💻 Databses:
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,redis)](https://skillicons.dev)
 
 ### 💻 Tools/Sites/Softwares:
 <a target="_blank" href="https://cloudflare.com">
