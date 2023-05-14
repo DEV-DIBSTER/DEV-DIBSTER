@@ -12,6 +12,9 @@
 
 ---
 
+<details>
+<summary>💼 Current Positions:</summary>
+
 ### 💼 Current Developer/Maintainer Related Positions:
 
 - [TechHost Development](https://github.com/TechHost-Development) | Developer
@@ -23,11 +26,21 @@
 - [Open Domains](https://github.com/open-domains) | Maintainer
 - [????](https://?????) | ????
 
+</details>
+
+<details>
+<summary>💼 Former Positions:</summary>
+
 ### 💼 Former Developer/Maintainer Related Positions:
 
 - Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Developer
 - Formerly [Artiom Hosting](https://artiom.host) | System Administrator + Panel Administrator
 - Formerly Staff at Brawly Discord Bot (shutdown).
+
+</details>
+
+<details>
+<summary>💻Skills/Misc:</summary>
 
 ### 🌎 Social Media:
 
@@ -59,6 +72,8 @@
 <a target="_blank" href="https://us.ovhcloud.com/">
 	<img align="left" title="OVH" alt="OVH" align="center" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ovh-3629559-3032342.png">
 </a>
+
+</details>
 
 <br>
 <br>
