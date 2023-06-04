@@ -17,13 +17,14 @@
 
 ### 💼 Current Developer/Maintainer Related Positions:
 
-- [TechHost Development](https://github.com/TechHost-Development) | Developer
 - [BrawlMatic](https://github.com/BrawlMatic) | Co Owner
-- [OrangyBot](https://github.com/OrangyBot) | OSS Developer
 - [Astro Files Host](https://github.com/Astro-File-Host) | Co Owner
+- [OrangyBot](https://github.com/OrangyBot) | OSS Developer
 - [DanBot Hosting](https://github.com/DanBot-Hosting) | Administrator + Developer + Head of the Beta Tester Program
-- [is-a-good.dev](https://github.com/is-a-good-dev) | Helper
+- [TechHost Development](https://github.com/TechHost-Development) | Developer
 - [Open Domains](https://github.com/open-domains) | Maintainer
+- [Free Domains](https://github.com/free-domains) | Maintainer
+- [is-a-good.dev](https://github.com/is-a-good-dev) |PHelper
 - [????](https://?????) | ????
 
 </details>
