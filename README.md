@@ -25,7 +25,7 @@
 - [Open Domains](https://github.com/open-domains) | Maintainer
 - [Free Domains](https://github.com/free-domains) | Maintainer
 - [is-a-good.dev](https://github.com/is-a-good-dev) |Helper
-- [Rainbow Stuios](https://github.com/The-Rainbow-Studios) | Developer
+- [Rainbow Studios](https://github.com/The-Rainbow-Studios) | Developer
 - [????](https://?????) | ????
 
 </details>
