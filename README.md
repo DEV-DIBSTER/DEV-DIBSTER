@@ -26,6 +26,7 @@
 - [Free Domains](https://github.com/free-domains) | Maintainer
 - [is-a-good.dev](https://github.com/is-a-good-dev) |Helper
 - [Rainbow Studios](https://github.com/The-Rainbow-Studios) | Developer
+- [BlueFoxHost](https://github.com/BlueFoxHost) | Developer
 - [????](https://?????) | ????
 
 </details>
