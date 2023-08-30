@@ -18,16 +18,12 @@
 ### 💼 Current Developer/Maintainer Related Positions:
 
 - [BrawlMatic](https://github.com/BrawlMatic) | Co Owner
-- [Astro Files Host](https://github.com/Astro-File-Host) | Co Owner
-- [OrangyBot](https://github.com/OrangyBot) | OSS Developer
 - [DanBot Hosting](https://github.com/DanBot-Hosting) | Administrator + Developer + Head of the Beta Tester Program
 - [TechHost Development](https://github.com/TechHost-Development) | Developer
 - [Open Domains](https://github.com/open-domains) | Maintainer
 - [Free Domains](https://github.com/free-domains) | Maintainer
-- [is-a-good.dev](https://github.com/is-a-good-dev) |Helper
-- [Rainbow Studios](https://github.com/The-Rainbow-Studios) | Developer
+- [is-a-good.dev](https://github.com/is-a-good-dev) | Helper
 - [BlueFoxHost](https://github.com/BlueFoxHost) | Developer
-- [????](https://?????) | ????
 
 </details>
 
@@ -36,7 +32,6 @@
 
 ### 💼 Former Developer/Maintainer Related Positions:
 
-- Formerly [BlueFox Development](https://github.com/BlueFox-Development) | Developer
 - Formerly [Artiom Hosting](https://artiom.host) | System Administrator + Panel Administrator
 - Formerly Staff at Brawly Discord Bot (shutdown).
 
