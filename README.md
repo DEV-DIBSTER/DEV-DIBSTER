@@ -24,6 +24,7 @@
 - [Free Domains](https://github.com/free-domains) | Maintainer
 - [is-a-good.dev](https://github.com/is-a-good-dev) | Helper
 - [BlueFoxHost](https://github.com/BlueFoxHost) | Developer
+- [is-a.dev](https://github.com/is-a-dev) | Maintainer
 
 </details>
 
