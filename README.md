@@ -39,38 +39,49 @@
 </details>
 
 <details>
-<summary>💻Skills/Misc:</summary>
+  <summary>💼 My Skills</summary>
 
-### 🌎 Social Media:
+  ### ⚛️ Frontend & Frameworks
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,discordjs" />
+    </a>
+  </p>
 
-<a target="_blank" href="https://twitter.com/DEV_DIBSTER">
-	<img title="Twitter" alt="Twitter" width="40px" src="https://i.imgur.com/o8oo7J3.png">
-</a>
+  ### ⚙️ Backend & Tools
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,bun,npm" />
+    </a>
+  </p>
 
-<a target="_blank" href="https://discord.com/users/757296951925538856">
-	<img title="Discord" alt="Discord" width="40px" src="https://i.imgur.com/n5C5PKl.png">
-</a>
+  ### 💬 Communication
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=discord,x" />
+    </a>
+  </p>
 
-### 💻 Coding Languages:
+  ### 💻 Programming Languages
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,rust,python,java" />
+    </a>
+  </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+  ### ☁️ Cloud & Productivity
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cloudflare,vercel,sentry,figma,obsidian,postman" />
+    </a>
+  </p>
 
-### 💻 Databases:
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,redis)](https://skillicons.dev)
-
-### 💻 Tools/Sites/Softwares:
-<a target="_blank" href="https://cloudflare.com">
-	<img align="left" title="Cloudflare" alt="Cloudflare" align="center" width="40px" src="https://cloudflare.com/favicon.ico">
-</a>
-
-<a target="_blank" href="https://getsharex.com">
-	<img align="left" title="ShareX" alt="ShareX" align="center" width="40px" src="https://getsharex.com/favicon.ico">
-</a>
-
-<a target="_blank" href="https://us.ovhcloud.com/">
-	<img align="left" title="OVH" alt="OVH" align="center" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/ovh-3629559-3032342.png">
-</a>
+  ### 🗄️ Databases & Caching
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql" />
+    </a>
+  </p>
 
 </details>
 
