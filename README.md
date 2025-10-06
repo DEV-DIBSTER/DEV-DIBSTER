@@ -6,7 +6,13 @@
 
 ➣ I work with JavaScript for the most part, but I know how to use HTML/CSS, as well as Java and Python. I like to use frameworks including Express, React, and React Native.
 
-➣ You can contact me at: `dibster@danbot.host`, my Discord `devdibster`, or my Twitter `@DEV_DIBSTER`
+➣ You can contact me at:
+  - is-a.dev Email: `dibster@is-a.dev`
+  - Open-Domains Email: `dibster@open-domains.net`
+  - Personal Email: `me@dibster.dev`
+  - DanBot Hosting: `dibster@danbot.host`
+  - Discord: `devdibster`
+  - Twitter: `DEV_DIBSTER`
 
 ➣ **You can view my old projects at [DIBSTER-Archives](https://github.com/DIBSTER-Archives)!**
 
