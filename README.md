@@ -2,7 +2,7 @@
 
 ### 😃 General Info:
 
-➣ Hey, I'm DIBSTER, I'm a Senior in High School studying in Computer Science. A member of the [NAHS Robotics Team](https://github.com/NAHSRobotics-Team5667), I enjoy working with technology and STEM. On GitHub I work on projects ranging from Discord bots to API sites. In my free time I'll code side projects, play games, and anything related to tech news.
+➣ Hey, I'm DIBSTER, I'm a Sophmore at the [Ohio State University](https://github.com/OSUSecLab) studying in Computer Science. A alumni of the [NAHS Robotics Team](https://github.com/NAHSRobotics-Team5667), I enjoy working with technology and STEM. On GitHub I work on projects ranging from Discord bots to API sites. In my free time I'll code side projects, play games, and anything related to tech news.
 
 ➣ I work with JavaScript for the most part, but I know how to use HTML/CSS, as well as Java and Python. I like to use frameworks including Express, React, and React Native.
 
