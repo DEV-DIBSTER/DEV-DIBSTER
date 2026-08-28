@@ -24,13 +24,11 @@
 ### 💼 Current Developer/Maintainer Related Positions:
 
 - [BrawlMatic](https://github.com/BrawlMatic) | Co Owner
-- [DanBot Hosting](https://github.com/DanBot-Hosting) | Administrator + Developer + Head of the Beta Tester Program
-- [TechHost Development](https://github.com/TechHost-Development) | Developer
-- [Open Domains](https://github.com/open-domains) | Maintainer
+- [DanBot Hosting](https://github.com/DanBot-Hosting) | Senior System Administrator, Head of Beta Testing, Lead of Development
+- [Open Domains](https://github.com/open-domains) | Maintainer & Developer
 - [Free Domains](https://github.com/free-domains) | Maintainer
 - [is-a-good.dev](https://github.com/is-a-good-dev) | Helper
-- [BlueFoxHost](https://github.com/BlueFoxHost) | Developer
-- [is-a.dev](https://github.com/is-a-dev) | Maintainer
+- [is-a.dev](https://github.com/is-a-dev) | Administrator / Maintainer
 
 </details>
 
@@ -41,6 +39,8 @@
 
 - Formerly [Artiom Hosting](https://artiom.host) | System Administrator + Panel Administrator
 - Formerly Staff at Brawly Discord Bot (shutdown).
+- [TechHost Development](https://github.com/TechHost-Development) | Developer
+- [BlueFoxHost](https://github.com/BlueFoxHost) | Developer
 
 </details>
 
